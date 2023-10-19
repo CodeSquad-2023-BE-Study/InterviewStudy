@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>수요일 19:00 ~ 22:00 [3h]
+    <td>목요일 14:30 ~ 17:30 [3h]
   </tr>
   <tr>
     <td></td>
@@ -33,10 +33,10 @@
     <td align="center"><a href="https://github.com/dokkisan"><img src="https://avatars.githubusercontent.com/dokkisan" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/new-pow"><b>new-pow</b></td>
-    <td align="center"><a href="https://github.com/lvalentine6"><b>lvalentine6</b></td>
-    <td align="center"><a href="https://github.com/leegyeongwhan"><b>leegyeongwhan</b></td>
-     <td align="center"><a href="https://github.com/dokkisan"><b>dokkisan</b></td>
+    <td align="center"><a href="https://github.com/new-pow"><b>이린</b></td>
+    <td align="center"><a href="https://github.com/lvalentine6"><b>하나</b></td>
+    <td align="center"><a href="https://github.com/leegyeongwhan"><b>감자</b></td>
+     <td align="center"><a href="https://github.com/dokkisan"><b>로이</b></td>
   </tr>
 </table>
 
@@ -49,6 +49,41 @@
 ## 📌 주제
 <table>
  <tr>
-
-  </tr>
+  <td>
+    <b>Java</b>
+  </td>
+</tr>
+   <td>
+    <b>Spring</b>
+  </td>
+<tr>
+   <td>
+    <b>OS</b>
+  </td>
+</tr>
+<tr>
+   <td>
+    <b>네트워크</b>
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>DB</b>
+  </td>
+</tr>
+<tr>
+  <td>
+   <b> 컴퓨터 아키텍처</b>
+  </td>
+</tr> 
+<tr>
+  <td>
+   <b> Git</b>
+  </td>
+</tr> 
+<tr>
+  <td>
+    <b>자료구조, 알고리즘</b>
+  </td>
+</tr>
 </table>
