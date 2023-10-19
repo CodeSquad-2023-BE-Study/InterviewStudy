@@ -34,9 +34,9 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/new-pow"><b>이린</b></td>
-    <td align="center"><a href="https://github.com/lvalentine6"><b>하나</b></td>
+    <td align="center"><a href="https://github.com/lvalentine6"><b>로이</b></td>
     <td align="center"><a href="https://github.com/leegyeongwhan"><b>감자</b></td>
-     <td align="center"><a href="https://github.com/dokkisan"><b>로이</b></td>
+     <td align="center"><a href="https://github.com/dokkisan"><b>하나</b></td>
   </tr>
 </table>
 
