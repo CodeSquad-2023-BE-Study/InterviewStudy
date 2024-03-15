@@ -27,16 +27,16 @@
 ## 📔 주제
 
 
-| 세션          | 주제            | 날짜        | 질문 목록 파일                   |
+| 세션          | 주제            | 날짜        | 질문 목록                   |
 |--------------|----------------|-------------|----------------------------------|
 | 1회차        | Java           | 2023-10-26  | [Java 질문 목록](/java/Java_2023_10_26.md) |
-| 2회차        | Spring         | YYYY-MM-DD  | [Spring 질문 목록1](spring_questions_1.md) |
-| 3회차        | OS             | YYYY-MM-DD  | [OS 질문 목록1](os_questions_1.md) |
-| 4회차        | Network | YYYY-MM-DD | [자료구조 및 알고리즘 질문 목록1](datastructure_questions_1.md) |
-| 5회차        | DB           | YYYY-MM-DD  | [Java 질문 목록2](java_questions_2.md) |
-| 6회차        | Computer Architecture         | YYYY-MM-DD  | [Spring 질문 목록2](spring_questions_2.md) |
-| 7회차        | Git             | YYYY-MM-DD  | [OS 질문 목록2](os_questions_2.md) |
-| 8회차        | DataStructure, Algorithm | YYYY-MM-DD | [자료구조 및 알고리즘 질문 목록2](datastructure_questions_2.md) |
-| 9회차  |  Java          | YYYY-MM-DD         | [Java 질문 목록1](java_questions_1.md)                              |
+| 2회차        | Spring         | 2023-11-09  | [스프링 질문 목록](/spring/Spring_2023_11_09.md) |
+| 3회차        | OS             | 2023-11-16  | [운영체제 질문 목록](/OS/OS_2023.11.16.md.md) |
+| 4회차        | Network | 2023-11-23 | [네트워크 질문 목록](/network/Network_2023_11_31.md) |
+| 5회차        | DB           | 2023-12-21  | [DB 질문 목록](/DB/DB_2023_12_21.md) |
+| 6회차        | Computer Architecture         | 2024-01-04  | [컴퓨터 아키텍처 질문 목록](/ComputerArchitecture/Computer_Architecture_2024_01_04.md) |
+| 7회차        | Git             | 2024-01-11  | [깃 질문 목록](/git/2024_01_11_git.md) |
+| 8회차        | DataStructure, Algorithm | 2024-01-31 | [자료구조, 알고리즘 질문 목록](/Algorithm_DataStructure/DataStructure_Algorithm.md) |
+| 9회차  |  Java          | 2024-02-01         | [Java 질문 목록](/java/Java_2024_02_01.md)                              |
 
 
