@@ -1,5 +1,5 @@
 # InterviewStudy
-로이, 하나, 이린, 감자가 면접 스터디를 하고 있어요
+로이, 하나, 이린, 감자가 면접 스터디를 하고 있어요.
 
 # 🖥 면접 스터디
 
@@ -9,9 +9,13 @@
 
 ## 🤖 스터디 멤버
 
-| ![이린](https://avatars.githubusercontent.com/new-pow) | ![로이](https://avatars.githubusercontent.com/lvalentine6) | ![감자](https://avatars.githubusercontent.com/leegyeongwhan) | ![하나](https://avatars.githubusercontent.com/dokkisan) |
-|:------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|:-------------------------------------------------------:|
-| [이린](https://github.com/new-pow)                     | [로이](https://github.com/lvalentine6)                   | [감자](https://github.com/leegyeongwhan)                  | [하나](https://github.com/dokkisan)                      |
+<center>
+
+| <img src="https://avatars.githubusercontent.com/new-pow" width="150" alt="이린"> | <img src="https://avatars.githubusercontent.com/lvalentine6" width="150" alt="로이"> | <img src="https://avatars.githubusercontent.com/leegyeongwhan" width="150" alt="감자"> | <img src="https://avatars.githubusercontent.com/dokkisan" width="150" alt="하나"> |
+|:---:|:---:|:---:|:---:|
+| [이린](https://github.com/new-pow) | [로이](https://github.com/lvalentine6) | [감자](https://github.com/leegyeongwhan) | [하나](https://github.com/dokkisan) |
+
+</center>
 
 ## 📌 스터디 규칙
 
