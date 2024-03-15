@@ -29,7 +29,7 @@
 
 | 세션          | 주제            | 날짜        | 질문 목록 파일                   |
 |--------------|----------------|-------------|----------------------------------|
-| 1회차        | Java           | 2023-10-26  | [Java 질문 목록](/Java/Java_2023_10_26.md) |
+| 1회차        | Java           | 2023-10-26  | [Java 질문 목록](/java/Java_2023_10_26.md) |
 | 2회차        | Spring         | YYYY-MM-DD  | [Spring 질문 목록1](spring_questions_1.md) |
 | 3회차        | OS             | YYYY-MM-DD  | [OS 질문 목록1](os_questions_1.md) |
 | 4회차        | Network | YYYY-MM-DD | [자료구조 및 알고리즘 질문 목록1](datastructure_questions_1.md) |
